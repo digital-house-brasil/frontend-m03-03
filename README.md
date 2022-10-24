@@ -1,4 +1,6 @@
 ![](./assets/hd-header.png)
+![](./assets/Captura%20de%20tela%202022-10-24%20165326.png)
+![](./assets/Captura%20de%20tela%202022-10-24%20165420.png)
 
 ### Front-End - Exercícios de HTML
 
@@ -44,6 +46,7 @@
 > Pagina `doutor-estranho.html'
 
 ![](./assets/doutor-estranho.png)
+
 </details>
 
 ###### tags: `internet` `navegação` `html` `exercícios`
