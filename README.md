@@ -1,5 +1,6 @@
 ![](./assets/hd-header.png)
-<img src="assets/img1.png">
+
+<img src="assets/img1.png"><br>
 <img src="assets/img2.png">
 
 ### Front-End - Exercícios de HTML
